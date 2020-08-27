@@ -8,13 +8,17 @@ from selenium.webdriver.support import expected_conditions as EC
 import urllib.request
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-chrome_path = r"C:\Users\Hamza\Downloads\chromedriver_win32 (1)\chromedriver.exe"
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.firefox.options import Options
+#chrome_path = r"C:\Users\Hamza\Downloads\chromedriver_win32 (1)\chromedriver.exe"
 
 
 def get_url_posts(url,n):
+    options = webdriver.firefox.options.Options()
+    options.headless = True
     """function that return the urls of posts from the first n pages of forums"""
     links=[] #list of urls 
-    driver = webdriver.Chrome(chrome_path)
+    driver = webdriver.Firefox(executable_path="/usr/bin/geckodriver", options=options)
     for i in range(1,n+1):
         try:
             driver.get(url+str("?page=")+str(i))
@@ -28,8 +32,10 @@ def get_url_posts(url,n):
             break
     return(list(set(links)))
 def post_data(url,url1):
+    options = webdriver.firefox.options.Options()
+    options.headless = True
     li=[]
-    driver = webdriver.Chrome(chrome_path)
+    driver = webdriver.Firefox(executable_path="/usr/bin/geckodriver", options=options)
     driver.get(url)
     posts=driver.find_elements_by_xpath(".//div[@class= 'message message--forum js-message']")
     part1=driver.find_element_by_xpath(".//*[@class= 'message-title']")

@@ -3,7 +3,7 @@ from myclass import *
 @click.command()
 @click.option('--url', default="", help='url of the user')
 @click.option('--n', default=1, help='number of pages')
-def main(url,url1,n):
+def main(url,n):
 
     p = Personne()
     p.user_info(url)

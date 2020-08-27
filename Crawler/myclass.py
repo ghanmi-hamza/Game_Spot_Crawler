@@ -5,7 +5,9 @@ class Personne():
         pass
     
     def user_info(self,url):
-        driver = webdriver.Chrome(chrome_path)
+        options = webdriver.firefox.options.Options()
+        options.headless = True
+        driver = webdriver.Firefox(executable_path="/usr/bin/geckodriver", options=options)
         driver.get(url)
         c=driver.find_element_by_xpath(".//*[@class= 'authorCard-name']").text
         name=c.split()[0]
