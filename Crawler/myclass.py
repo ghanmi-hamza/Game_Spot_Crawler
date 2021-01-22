@@ -16,7 +16,7 @@ class GamespotDriver(Driver):
         """Constructeur de notre classe"""
         pass
     
-    def get_user_info(self,url):
+    def get_user_info(self,url,nb_images):
         options = webdriver.firefox.options.Options()
         #options.headless = True
         driver = webdriver.Firefox(executable_path=r"C:\Users\Hamza\Downloads\geckodriver.exe", options=options)
@@ -38,9 +38,8 @@ class GamespotDriver(Driver):
         "followers":td[2].text,
         "more_info":ch
         }
-        n=20
         driver.get(url+"images")
-        images=self.get_images(driver,n)
+        images=self.get_images(driver,nb_images)
         #print(len(images))
         dic['images']=images
         self.user_details=dic

@@ -65,20 +65,6 @@ def post_data(url,url1):
         pass
     driver.close()
     return(li,users_url)
-def get_images(driver,n):
-    """get the n first  images url for user image page"""
-    li=[]
-    for i in range(n):
-        sc = WebDriverWait(driver, 10). until(EC.presence_of_element_located((By.CSS_SELECTOR, 'html')))
-        driver.execute_script('arguments[0].scrollTop = arguments[0].scrollHeight', sc)
-        part=driver.find_elements_by_xpath(".//li[@class= 'js-gallery-item isotope-image gallery-image']/figure/a/img")
-        try:
-            image=part[i].get_attribute('src')
-            li.append(image)
-            
-        except:
-            break
-    return(li)
 def save_data(data,name,folder_path):
     """save data in a specific folder path with the name as argument"""
     pathlib.Path(folder_path+name).mkdir(parents=True, exist_ok=True)
