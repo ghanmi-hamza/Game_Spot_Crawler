@@ -1,0 +1,11 @@
+README.md
+setup.py
+Crawler/__init__.py
+Crawler/__main__.py
+Crawler/methods.py
+Crawler/myclass.py
+gameSpotCrawler.egg-info/PKG-INFO
+gameSpotCrawler.egg-info/SOURCES.txt
+gameSpotCrawler.egg-info/dependency_links.txt
+gameSpotCrawler.egg-info/requires.txt
+gameSpotCrawler.egg-info/top_level.txt

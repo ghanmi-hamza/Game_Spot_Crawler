@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 setuptools.setup(
-    name="GameSpot_Crawler",
+    name="gameSpotCrawler",
     version=version,
     author="Hamza Ghanmi",
     author_email="hamza.ghanmi56@gmail.com",
@@ -17,6 +17,6 @@ setuptools.setup(
     long_description=long_description,
     packages=setuptools.find_packages(),
     python_requires=">=3.5",
-    install_requires=["selenium==3.141.0","webdriver_manager"],
+    install_requires=["selenium==3.141.0","webdriver_manager","click ==7.1.2"],
 
 )

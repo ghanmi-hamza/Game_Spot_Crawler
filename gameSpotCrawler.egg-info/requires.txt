@@ -1,0 +1,3 @@
+selenium==3.141.0
+webdriver_manager
+click==7.1.2

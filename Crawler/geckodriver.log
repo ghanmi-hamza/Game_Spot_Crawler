@@ -1,0 +1,561 @@
+1598951938581	geckodriver	INFO	Listening on 127.0.0.1:50869
+1598951941560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hamza\\AppData\\Local\\Temp\\rust_mozprofileFC2002"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1598951964819	Marionette	INFO	Listening on port 50882
+1598951965422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598951976246	Marionette	INFO	Stopped listening on port 50882
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5504, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1598952198198	geckodriver	INFO	Listening on 127.0.0.1:51124
+1598952201302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hamza\\AppData\\Local\\Temp\\rust_mozprofilekP27h7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598952208519	Marionette	INFO	Listening on port 51132
+1598952208693	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+1598952233479	Marionette	INFO	Stopped listening on port 51132
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598952239608	geckodriver	INFO	Listening on 127.0.0.1:51232
+1598952406035	geckodriver	INFO	Listening on 127.0.0.1:51305
+1598952409182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hamza\\AppData\\Local\\Temp\\rust_mozprofileccc29Y"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598952419219	Marionette	INFO	Listening on port 51314
+1598952419641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript error: https://www.gamespot.com/profile/zassimick/images/, line 66: ReferenceError: osdlfm is not defined
+1598952526554	Marionette	INFO	Stopped listening on port 51314
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 315: TypeError: this._builder is undefined
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598952566933	geckodriver	INFO	Listening on 127.0.0.1:51437
+1598952574197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hamza\\AppData\\Local\\Temp\\rust_mozprofileDDHo23"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1598952612699	Marionette	INFO	Listening on port 51449
+1598952617941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+1598953238886	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1598953325501	Marionette	INFO	Stopped listening on port 51449
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript error: https://gamespot1.cbsistatic.com/vedfa9ab861b0651a816b1d3c81c1992d/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+JavaScript error: https://gamespot1.cbsistatic.com/vedfa9ab861b0651a816b1d3c81c1992d/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598952700541	Marionette	INFO	Listening on port 51811
+1598952701009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1598952884816	Marionette	INFO	Stopped listening on port 51618
+es/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598952751535	Marionette	INFO	Listening on port 51950
+1598952751660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com/vedfa9ab861b0651a816b1d3c81c1992d/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://1598952877156	Marionette	INFO	Stopped listening on port 51811
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+651a816b1d3c81c1992d/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+JavaScript warning: https://claconsole.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1598952843102	Marionette	INFO	Listening on port 52173
+[P1598953326483	Marionette	INFO	Stopped listening on port 51950
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+annel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598953010561	geckodriver	INFO	Listening on 127.0.0.1:52390
+1598953013596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hamza\\AppData\\Local\\Temp\\rust_mozprofileN3Soul"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598953024974	Marionette	INFO	Listening on port 52398
+1598953027457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 14: unreachable code after return statement
+1598953164264	Marionette	INFO	Stopped listening on port 52398
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+[Child 12576, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0011,name=PHttpChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x5E0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1598953201606	geckodriver	INFO	Listening on 127.0.0.1:52575
+1598953207618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Hamza\\AppData\\Local\\Temp\\rust_mozprofilea5VHCJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+[Parent 6916, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1598953236332	Marionette	INFO	Listening on port 52583
+1598953236822	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6916, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1598953322570	Marionette	INFO	Stopped listening on port 52583
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611074545968	geckodriver	INFO	Listening on 127.0.0.1:53590
+1611074549106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofileO9vkvJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611074565148	Marionette	INFO	Listening on port 53598
+1611074565770	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.7.0/otBannerSdk.js, line 7: TypeError: o is undefined
+1611075571954	Marionette	INFO	Stopped listening on port 53598
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofileGCkTiQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611074760558	Marionette	INFO	Listening on port 53833
+1611074760963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611074782480	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1611074792214	Marionette	INFO	Stopped listening on port 53833
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611074799296	geckodriver	INFO	Listening on 127.0.0.1:54018
+1611074802372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofileOYr6VI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611074811138	Marionette	INFO	Listening on port 54026
+1611074811370	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find1611074822805	mozrunner::runner	IN1611075573343	Marionette	INFO	Stopped listening on port 54026
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rust_mozprofileTCNWgI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611074834255	Marionette	INFO	Listening on port 54162
+1611074834696	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611074844562	Marionette	INFO	Stopped listening on port 54162
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611074849655	geckodriver	INFO	Listening on 127.0.0.1:54317
+1611074852711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofileSGauCc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611074859916	Marionette	INFO	Listening on port 54325
+1611074860151	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611074868948	Marionette	INFO	Stopped listening on port 54325
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Child 12104, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611074874288	geckodriver	INFO	Listening on 127.0.0.1:54424
+1611074877422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofilemHJGBC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611074884330	Marionette	INFO	Listening on port 54432
+1611074884758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611074890927	Marionette	INFO	Stopped listening on port 54432
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611074895451	geckodriver	INFO	Listening on 127.0.0.1:54511
+1611074898541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofilee1Hfr8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611074905729	Marionette	INFO	Listening on port 54519
+1611074905884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611074913522	Marionette	INFO	Stopped listening on port 54519
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611074918661	geckodriver	INFO	Listening on 127.0.0.1:54582
+1611074921825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofileKWJQGl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611074928419	Marionette	INFO	Listening on port 54590
+1611074928576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611074935579	Marionette	INFO	Stopped listening on port 54590
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10360, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1611074941906	geckodriver	INFO	Listening on 127.0.0.1:54670
+1611074945042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofile0ngMpU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611074953866	Marionette	INFO	Listening on port 54679
+1611074953955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611074961224	Marionette	INFO	Stopped listening on port 54679
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611074967364	geckodriver	INFO	Listening on 127.0.0.1:54770
+1611074970396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofile4RcIpV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611074977563	Marionette	INFO	Listening on port 54778
+1611074977901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611074988448	Marionette	INFO	Stopped listening on port 54778
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611074993330	geckodriver	INFO	Listening on 127.0.0.1:54852
+1611074996463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofilewHdwLj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611075003572	Marionette	INFO	Listening on port 54860
+1611075004030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611075029197	Marionette	INFO	Stopped listening on port 54860
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 11816, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1611075035656	geckodriver	INFO	Listening on 127.0.0.1:55045
+1611075038634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofile090QJe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 10364, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1611075046386	Marionette	INFO	Listening on port 55053
+1611075046510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611075053732	Marionette	INFO	Stopped listening on port 55053
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611075582899	geckodriver	INFO	Listening on 127.0.0.1:55172
+1611075586064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofile0c9V3P"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611075592992	Marionette	INFO	Listening on port 55180
+1611075593411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611075608732	Marionette	INFO	Stopped listening on port 55180
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/sourcepoint.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6712, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1611075718650	geckodriver	INFO	Listening on 127.0.0.1:55325
+1611075721792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofileHrTSni"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611075728163	Marionette	INFO	Listening on port 55333
+1611075728528	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1611075751051	Marionette	INFO	Stopped listening on port 55333
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611075812279	geckodriver	INFO	Listening on 127.0.0.1:55514
+1611075815370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofilehQxIYU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611075821349	Marionette	INFO	Listening on port 55522
+1611075821600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611075837182	Marionette	INFO	Stopped listening on port 55522
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611075854767	geckodriver	INFO	Listening on 127.0.0.1:55653
+1611075857849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofileWBTO6u"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611075863991	Marionette	INFO	Listening on port 55661
+1611075864562	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1611075882323	Marionette	INFO	Stopped listening on port 55661
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611075981981	geckodriver	INFO	Listening on 127.0.0.1:55839
+1611075985285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofileKyDaSQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611075991511	Marionette	INFO	Listening on port 55847
+1611075991981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611076008413	Marionette	INFO	Stopped listening on port 55847
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10556, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1611076013222	geckodriver	INFO	Listening on 127.0.0.1:55990
+1611076016289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofilejjmKlr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611076022129	Marionette	INFO	Listening on port 55998
+1611076022445	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1611091680267	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1611091993033	Marionette	INFO	Stopped listening on port 55998
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+n module)"))
+1611076041190	Marionette	INFO	Listening on port 56110
+1611076041393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611076050004	Marionette	INFO	Stopped listening on port 56110
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611076055829	geckodriver	INFO	Listening on 127.0.0.1:56267
+1611076058881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofileU9WNtF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611076065317	Marionette	INFO	Listening on port 56276
+1611076065604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611076073620	Marionette	INFO	Stopped listening on port 56276
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611076079595	geckodriver	INFO	Listening on 127.0.0.1:56371
+1611076082667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofilehf45wZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611076089135	Marionette	INFO	Listening on port 56379
+1611076089404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611076096365	Marionette	INFO	Stopped listening on port 56379
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611076101268	geckodriver	INFO	Listening on 127.0.0.1:56444
+1611076104310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofileU8xVw6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611076111387	Marionette	INFO	Listening on port 56452
+1611076111770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611076119967	Marionette	INFO	Stopped listening on port 56452
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3096, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1611076124849	geckodriver	INFO	Listening on 127.0.0.1:56561
+1611076127899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofileh9zNBZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611076134359	Marionette	INFO	Listening on port 56569
+1611076134789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611076143945	Marionette	INFO	Stopped listening on port 56569
+[Child 220, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611076148859	geckodriver	INFO	Listening on 127.0.0.1:56662
+1611076151910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofile3lHOzx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611076158762	Marionette	INFO	Listening on port 56670
+1611076159299	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611076166701	Marionette	INFO	Stopped listening on port 56670
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611076171435	geckodriver	INFO	Listening on 127.0.0.1:56746
+1611076174521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofiledsnWAq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611076181529	Marionette	INFO	Listening on port 56754
+1611076181824	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611076190691	Marionette	INFO	Stopped listening on port 56754
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611076195969	geckodriver	INFO	Listening on 127.0.0.1:56825
+1611076199044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofile6p20KN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611076205178	Marionette	INFO	Listening on port 56833
+1611076205755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611076232409	Marionette	INFO	Stopped listening on port 56833
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611076237292	geckodriver	INFO	Listening on 127.0.0.1:57013
+1611076240348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hamza\\AppData\\Local\\Temp\\rust_mozprofilehK30ml"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611076246956	Marionette	INFO	Listening on port 57021
+1611076247066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://gamespot1.cbsistatic.com/v61222d9957d5638ba48a27a6a33b3541/js/compiled/all.js, line 86: TypeError: i.offset() is undefined
+1611076256037	Marionette	INFO	Stopped listening on port 57021
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
