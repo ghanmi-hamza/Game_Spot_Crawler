@@ -68,7 +68,7 @@ $ python __main.py__ --url="https://www.gamespot.com/profile/airdoggo/" --pubs="
 <h2 align="left">🌐 Connect</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/hamza-ghanmi-b8a125183/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="hamza.ghanmi56@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:hamza.ghanmi56@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
 </p>
