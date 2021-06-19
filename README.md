@@ -5,7 +5,7 @@
 </p>
 <hr>
 <h2 align="center">
-  Software that <b>scrape & collect</b> users data like posts, photos, info from <a target="_blank", href="https://www.gamespot.com/"> GameSpot</a> .
+  Software that <b>scrapes & collect</b> users data like posts, photos, info from <a target="_blank", href="https://www.gamespot.com/"> GameSpot</a> .
 </h2>
 <hr>
 
